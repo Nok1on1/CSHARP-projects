@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/noklon/CSHARP-projects/test/test/test.csproj": {}
+    "/home/noklon/CSHARP-projects/testing/testing.csproj": {}
   },
   "projects": {
-    "/home/noklon/CSHARP-projects/test/test/test.csproj": {
+    "/home/noklon/CSHARP-projects/testing/testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/noklon/CSHARP-projects/test/test/test.csproj",
-        "projectName": "test",
-        "projectPath": "/home/noklon/CSHARP-projects/test/test/test.csproj",
+        "projectUniqueName": "/home/noklon/CSHARP-projects/testing/testing.csproj",
+        "projectName": "testing",
+        "projectPath": "/home/noklon/CSHARP-projects/testing/testing.csproj",
         "packagesPath": "/home/noklon/.nuget/packages/",
-        "outputPath": "/home/noklon/CSHARP-projects/test/test/obj/",
+        "outputPath": "/home/noklon/CSHARP-projects/testing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/noklon/.nuget/NuGet/NuGet.Config"

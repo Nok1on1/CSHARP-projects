@@ -2,3 +2,14 @@
 /home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
 /home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/test.AssemblyInfo.cs
 /home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/home/noklon/CSHARP-projects/test/test/bin/Debug/net8.0/test
+/home/noklon/CSHARP-projects/test/test/bin/Debug/net8.0/test.deps.json
+/home/noklon/CSHARP-projects/test/test/bin/Debug/net8.0/test.runtimeconfig.json
+/home/noklon/CSHARP-projects/test/test/bin/Debug/net8.0/test.dll
+/home/noklon/CSHARP-projects/test/test/bin/Debug/net8.0/test.pdb
+/home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/test.sourcelink.json
+/home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/test.dll
+/home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/refint/test.dll
+/home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/test.pdb
+/home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/home/noklon/CSHARP-projects/test/test/obj/Debug/net8.0/ref/test.dll

@@ -1,0 +1,15 @@
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/testing.GeneratedMSBuildEditorConfig.editorconfig
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/testing.AssemblyInfoInputs.cache
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/testing.AssemblyInfo.cs
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/testing.csproj.CoreCompileInputs.cache
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/testing.sourcelink.json
+/home/noklon/CSHARP-projects/testing/bin/Debug/net8.0/testing
+/home/noklon/CSHARP-projects/testing/bin/Debug/net8.0/testing.deps.json
+/home/noklon/CSHARP-projects/testing/bin/Debug/net8.0/testing.runtimeconfig.json
+/home/noklon/CSHARP-projects/testing/bin/Debug/net8.0/testing.dll
+/home/noklon/CSHARP-projects/testing/bin/Debug/net8.0/testing.pdb
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/testing.dll
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/refint/testing.dll
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/testing.pdb
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/testing.genruntimeconfig.cache
+/home/noklon/CSHARP-projects/testing/obj/Debug/net8.0/ref/testing.dll
